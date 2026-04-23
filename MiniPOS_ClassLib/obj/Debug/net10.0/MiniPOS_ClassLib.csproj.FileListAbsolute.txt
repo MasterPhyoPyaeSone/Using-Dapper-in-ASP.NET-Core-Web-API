@@ -1,0 +1,11 @@
+/Users/macbookpro/C#/MiniPOS_DapperAPI/MiniPOS_ClassLib/bin/Debug/net10.0/MiniPOS_ClassLib.deps.json
+/Users/macbookpro/C#/MiniPOS_DapperAPI/MiniPOS_ClassLib/bin/Debug/net10.0/MiniPOS_ClassLib.dll
+/Users/macbookpro/C#/MiniPOS_DapperAPI/MiniPOS_ClassLib/bin/Debug/net10.0/MiniPOS_ClassLib.pdb
+/Users/macbookpro/C#/MiniPOS_DapperAPI/MiniPOS_ClassLib/obj/Debug/net10.0/MiniPOS_ClassLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/C#/MiniPOS_DapperAPI/MiniPOS_ClassLib/obj/Debug/net10.0/MiniPOS_ClassLib.AssemblyInfoInputs.cache
+/Users/macbookpro/C#/MiniPOS_DapperAPI/MiniPOS_ClassLib/obj/Debug/net10.0/MiniPOS_ClassLib.AssemblyInfo.cs
+/Users/macbookpro/C#/MiniPOS_DapperAPI/MiniPOS_ClassLib/obj/Debug/net10.0/MiniPOS_ClassLib.csproj.CoreCompileInputs.cache
+/Users/macbookpro/C#/MiniPOS_DapperAPI/MiniPOS_ClassLib/obj/Debug/net10.0/MiniPOS_ClassLib.dll
+/Users/macbookpro/C#/MiniPOS_DapperAPI/MiniPOS_ClassLib/obj/Debug/net10.0/refint/MiniPOS_ClassLib.dll
+/Users/macbookpro/C#/MiniPOS_DapperAPI/MiniPOS_ClassLib/obj/Debug/net10.0/MiniPOS_ClassLib.pdb
+/Users/macbookpro/C#/MiniPOS_DapperAPI/MiniPOS_ClassLib/obj/Debug/net10.0/ref/MiniPOS_ClassLib.dll

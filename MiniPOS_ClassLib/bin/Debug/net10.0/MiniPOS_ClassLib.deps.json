@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "MiniPOS_ClassLib/1.0.0": {
+        "runtime": {
+          "MiniPOS_ClassLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MiniPOS_ClassLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

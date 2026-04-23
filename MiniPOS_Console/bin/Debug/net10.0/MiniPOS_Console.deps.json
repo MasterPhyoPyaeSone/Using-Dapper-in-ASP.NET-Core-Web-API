@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "MiniPOS_Console/1.0.0": {
+        "dependencies": {
+          "MiniPOS_ClassLib": "1.0.0"
+        },
+        "runtime": {
+          "MiniPOS_Console.dll": {}
+        }
+      },
+      "MiniPOS_ClassLib/1.0.0": {
+        "runtime": {
+          "MiniPOS_ClassLib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MiniPOS_Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MiniPOS_ClassLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
