@@ -69,3 +69,4 @@
 /Users/macbookpro/C#/MiniPOS_DapperAPI/MiniPOS_WebAPI/bin/Debug/net10.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
 /Users/macbookpro/C#/MiniPOS_DapperAPI/MiniPOS_WebAPI/bin/Debug/net10.0/MiniPOS_ClassLib.dll
 /Users/macbookpro/C#/MiniPOS_DapperAPI/MiniPOS_WebAPI/bin/Debug/net10.0/MiniPOS_ClassLib.pdb
+/Users/macbookpro/C#/MiniPOS_DapperAPI/MiniPOS_WebAPI/obj/Debug/net10.0/MiniPOS_WebAPI.sourcelink.json

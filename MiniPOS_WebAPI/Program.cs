@@ -39,7 +39,7 @@ var summaries = new[]
 
 app.MapGet("/weatherforecast", () =>
 {
-    var forecast =  Enumerable.Range(1, 5).Select(index =>
+    var forecast = Enumerable.Range(1, 5).Select(index =>
         new WeatherForecast
         (
             DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
@@ -50,6 +50,10 @@ app.MapGet("/weatherforecast", () =>
     return forecast;
 })
 .WithName("GetWeatherForecast");
+// Middleware ကို register လုပ်ခြင်း
+app.UseMiddleware<RequestLoggingMiddleware>(); 
+
+app.MapGet("/", () => "Hello, Middleware is working!");
 
 app.Run();
 

@@ -9,3 +9,4 @@
 /Users/macbookpro/C#/MiniPOS_DapperAPI/MiniPOS_ClassLib/obj/Debug/net10.0/refint/MiniPOS_ClassLib.dll
 /Users/macbookpro/C#/MiniPOS_DapperAPI/MiniPOS_ClassLib/obj/Debug/net10.0/MiniPOS_ClassLib.pdb
 /Users/macbookpro/C#/MiniPOS_DapperAPI/MiniPOS_ClassLib/obj/Debug/net10.0/ref/MiniPOS_ClassLib.dll
+/Users/macbookpro/C#/MiniPOS_DapperAPI/MiniPOS_ClassLib/obj/Debug/net10.0/MiniPOS_ClassLib.sourcelink.json

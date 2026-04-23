@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniPOS_ClassLib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61405ad49b6db114c5572a42324d42b1575a9419")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniPOS_ClassLib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniPOS_ClassLib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
