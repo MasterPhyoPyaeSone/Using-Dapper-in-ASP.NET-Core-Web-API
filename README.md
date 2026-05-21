@@ -30,12 +30,7 @@ Install Nuget Package (WebAPI)
 
 - with Dapper 
 
-## Connection 
 
-- appsetting.json 
- "ConnectionStrings": {
-    "DbConnection": "Server=127.0.0.1,1433;Database=MiniPOS;User Id=sa;Password=pps@Password123;TrustServerCertificate=True;Encrypt=False;"
-  },
 
 
 
